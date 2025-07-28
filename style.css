@@ -189,6 +189,7 @@ footer {
 .wrapper2{
     display:flex;
     gap:50px;
+    flex-wrap: wrap;
     margin-left:10%;    
     margin-bottom: 50px;
 }
@@ -352,7 +353,6 @@ footer {
     .technical{
         margin-left: 0;
     }
-    
 
 }
 @media (max-width:1197px) {
